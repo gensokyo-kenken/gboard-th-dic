@@ -1,1 +1,1 @@
-# gboard-th-dic
+# gboard-touhou-dic
