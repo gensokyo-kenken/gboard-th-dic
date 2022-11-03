@@ -1,6 +1,9 @@
 # Gboard Dictionary version:1
 えーりん	(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！	ja-JP
 てい	てゐ	ja-JP
+おおかみれい	オオカミ霊	ja-JP
+おおわしれい	オオワシ霊	ja-JP
+かわうそれい	カワウソ霊	ja-JP
 くたか	久侘歌	ja-JP
 つくもやつはし	九十九八橋	ja-JP
 つくもべんべん	九十九弁々	ja-JP
